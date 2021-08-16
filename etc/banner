@@ -1,0 +1,19 @@
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+
+  This container have been created using the official docker image:
+  -- rastasheep/ubuntu-sshd
+  With the following options:
+  -- /etc/ssh/sshd_config custom configuration
+  -- ubuntu:latest image
+  -- vim text editor
+  -- curl
+  -- nvm
+  -- node latest
+
+  Enjoy!
+  _________________________________________________________________
+
